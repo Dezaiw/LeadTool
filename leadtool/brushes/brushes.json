@@ -1,0 +1,74 @@
+[
+ {
+  "id": "wet_soft_round",
+  "name": "Wet Soft Round",
+  "spacing": 0.03,
+  "flow": 0.15,
+  "opacity": 1.0,
+  "follow_path": false,
+  "size_jitter": 0.0,
+  "flow_jitter": 0.0,
+  "angle_jitter": 0.0,
+  "position_jitter": 0.0
+ },
+ {
+  "id": "calligraphic",
+  "name": "Calligraphic",
+  "spacing": 0.01,
+  "flow": 1.0,
+  "opacity": 1.0,
+  "follow_path": false,
+  "size_jitter": 0.0,
+  "flow_jitter": 0.0,
+  "angle_jitter": 0.0,
+  "position_jitter": 0.0
+ },
+ {
+  "id": "basic_soft",
+  "name": "Basic Soft",
+  "spacing": 0.2,
+  "flow": 1.0,
+  "opacity": 1.0,
+  "follow_path": false,
+  "size_jitter": 0.0,
+  "flow_jitter": 0.0,
+  "angle_jitter": 0.0,
+  "position_jitter": 0.0
+ },
+ {
+  "id": "wet_hard",
+  "name": "Wet Hard",
+  "spacing": 0.02,
+  "flow": 0.34,
+  "opacity": 1.0,
+  "follow_path": false,
+  "size_jitter": 0.0,
+  "flow_jitter": 0.0,
+  "angle_jitter": 0.0,
+  "position_jitter": 0.0
+ },
+ {
+  "id": "marker",
+  "name": "Marker",
+  "spacing": 0.01,
+  "flow": 0.5,
+  "opacity": 1.0,
+  "follow_path": false,
+  "size_jitter": 0.0,
+  "flow_jitter": 0.0,
+  "angle_jitter": 0.0,
+  "position_jitter": 0.0
+ },
+ {
+  "id": "pencil",
+  "name": "Pencil",
+  "spacing": 0.25,
+  "flow": 1.0,
+  "opacity": 1.0,
+  "follow_path": true,
+  "size_jitter": 0.0,
+  "flow_jitter": 0.5,
+  "angle_jitter": 46.0,
+  "position_jitter": 0.0
+ }
+]
